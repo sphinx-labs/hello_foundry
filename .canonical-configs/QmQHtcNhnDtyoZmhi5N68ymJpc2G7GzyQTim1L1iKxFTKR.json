@@ -1,0 +1,69 @@
+{
+  "options": {
+    "projectName": "Hello ChugSplash"
+  },
+  "contracts": {
+    "HelloChugSplash": {
+      "contract": "src/HelloChugSplash.sol:HelloChugSplash",
+      "proxy": "0x62C52e793BD90EFeF3c0aA466C91C63C6DFEe5a9",
+      "proxyType": "default",
+      "variables": {
+        "number": 1,
+        "stored": true,
+        "storageName": "First",
+        "otherStorage": "0x1111111111111111111111111111111111111111"
+      },
+      "constructorArgs": {}
+    }
+  },
+  "inputs": [
+    {
+      "solcVersion": "0.8.17",
+      "solcLongVersion": "0.8.17+commit.8df45f5f.Darwin.appleclang",
+      "input": {
+        "language": "Solidity",
+        "settings": {
+          "remappings": [
+            "@chugsplash/=node_modules/@chugsplash/",
+            "@eth-optimism/=node_modules/@eth-optimism/",
+            "@openzeppelin/=node_modules/@openzeppelin/",
+            "chugsplash/=node_modules/@chugsplash/plugins/dist/contracts/",
+            "ds-test/=lib/forge-std/lib/ds-test/src/",
+            "forge-std/=lib/forge-std/src/",
+            "hardhat-deploy/=node_modules/hardhat-deploy/",
+            "hardhat/=node_modules/hardhat/"
+          ],
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs"
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        },
+        "sources": {
+          "src/HelloChugSplash.sol": {
+            "content": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.15;\n\ncontract HelloChugSplash {\n    uint public number;\n    bool public stored;\n    address public otherStorage;\n    string public storageName;\n}"
+          }
+        }
+      }
+    }
+  ]
+}
