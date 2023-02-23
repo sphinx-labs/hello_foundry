@@ -6,33 +6,6 @@
     "HelloChugSplash": {
       "contract": "HelloChugSplash",
       "variables": {
-        "number": 4,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "AnotherHelloChugSplash": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 1,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "LotsOContracts": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 1,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "ManyManyContracts": {
-      "contract": "HelloChugSplash",
-      "variables": {
         "number": 1,
         "stored": true,
         "storageName": "First",
