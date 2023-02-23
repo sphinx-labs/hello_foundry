@@ -1,6 +1,6 @@
 {
   "options": {
-    "projectName": "Hello ChugSplash Foundry"
+    "projectName": "Hello ChugSplash"
   },
   "contracts": {
     "HelloChugSplash": {
