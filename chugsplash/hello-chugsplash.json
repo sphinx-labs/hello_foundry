@@ -4,6 +4,10 @@
   },
   "contracts": {
     "HelloChugSplash": {
+
+
+
+      
       "contract": "HelloChugSplash",
       "variables": {
         "number": 6,
