@@ -11,51 +11,6 @@
         "storageName": "First",
         "otherStorage": "0x1111111111111111111111111111111111111111"
       }
-    },
-    "HelloChugSplash2": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 9,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "HelloChugSplash3": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 9,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "HelloChugSplash4": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 9,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "HelloChugSplash5": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 9,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "HelloChugSplash6": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 9,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
     }
   }
 }
