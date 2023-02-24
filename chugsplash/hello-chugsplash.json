@@ -3,6 +3,9 @@
     "projectName": "Hello ChugSplash Foundry"
   },
   "contracts": {
+
+
+    
     "HelloChugSplash": {
       "contract": "HelloChugSplash",
       "variables": {
