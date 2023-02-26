@@ -1,12 +1,12 @@
 {
   "options": {
-    "projectName": "Hello ChugSplash Foundry 4"
+    "projectName": "Hello ChugSplash Foundry"
   },
   "contracts": {
     "HelloChugSplash": {
       "contract": "HelloChugSplash",
       "variables": {
-        "number": 2,
+        "number": 1,
         "stored": true,
         "storageName": "First",
         "otherStorage": "0x1111111111111111111111111111111111111111"
