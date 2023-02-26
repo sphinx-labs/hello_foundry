@@ -6,6 +6,8 @@
     "HelloChugSplash": {
       "contract": "HelloChugSplash",
       "variables": {
+
+        
         "number": 3,
         "stored": true,
         "storageName": "First",
