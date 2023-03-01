@@ -20,6 +20,15 @@
         "storageName": "First",
         "otherStorage": "0x1111111111111111111111111111111111111111"
       }
+    },
+    "HelloChugSplashThree": {
+      "contract": "HelloChugSplash",
+      "variables": {
+        "number": 14,
+        "stored": true,
+        "storageName": "First",
+        "otherStorage": "0x1111111111111111111111111111111111111111"
+      }
     }
   }
 }
