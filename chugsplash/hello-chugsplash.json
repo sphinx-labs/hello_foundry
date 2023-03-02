@@ -6,25 +6,7 @@
     "HelloChugSplash": {
       "contract": "HelloChugSplash",
       "variables": {
-        "number": 20,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "HelloChugSplashTwo": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 14,
-        "stored": true,
-        "storageName": "First",
-        "otherStorage": "0x1111111111111111111111111111111111111111"
-      }
-    },
-    "HelloChugSplashThree": {
-      "contract": "HelloChugSplash",
-      "variables": {
-        "number": 14,
+        "number": 1,
         "stored": true,
         "storageName": "First",
         "otherStorage": "0x1111111111111111111111111111111111111111"
